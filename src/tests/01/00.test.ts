@@ -1,4 +1,4 @@
-import {mult, splitIntoWords, sum} from "./01_00";
+import {mult, splitIntoWords, sum} from "./00";
 
 let a: number
 let b: number
