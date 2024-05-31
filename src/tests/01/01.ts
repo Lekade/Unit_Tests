@@ -4,6 +4,7 @@ export  type  AddressType = {
 }
 
 export type HousesType = {
+    id?:number
     buildedAt: number
     repaired: boolean
     address: AddressType
